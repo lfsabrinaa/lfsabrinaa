@@ -1,6 +1,7 @@
 ## 👩🏻‍💻 Sabrina LF
 
 **`Técnica em Desenvolvimento de Sistemas - Games`**
+**`ETE FMC`**
 
 Me chamo Sabrina Lopes de Faria, tenho 18 anos e sou natural de Santa Rita do Sapucaí - MG. Atualmente, estou cursando o ensino médio, integrado ao curso técnico de Desenvolvimento de Sistemas - Games na ETE FMC. 
 
