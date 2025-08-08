@@ -12,6 +12,30 @@ Meu interesse também se estende ao **desenvolvimento de aplicativos**, com foco
 Aqui no GitHub, compartilho os projetos e aprendizados que fazem parte da minha jornada de formação.
 
 <p align="left">
+    <a href="sabrinalf102@gmail.com">
+        <img 
+            alt="Email" 
+            title="Enviar um e-mail" 
+            src="https://custom-icon-badges.demolab.com/badge/Email-E61B23.svg?logo=mail&logoColor=white" 
+        />
+    </a>
+    <a href="https://www.instagram.com/lf_sabrina_/" target="_blank">
+    <img 
+        alt="Instagram" 
+        title="Me siga no Instagram" 
+        src="https://custom-icon-badges.demolab.com/badge/Instagram-%23E1306C.svg?logo=instagram&logoColor=white" 
+    />
+</a>
+      <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" 
+        />
+    </a>
+</p>
+
+<p align="left">
     <a href="https://github.com/lfsabrinaa?tab=followers">
         <img 
             alt="Seguidores" 
