@@ -144,21 +144,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-origi
 
 ## 📊 Estatistícas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lfsabrinaa&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfsabrinaa&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          alt="GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api?username=lfsabrinaa&show_icons=true&theme=radica&locale=pt-br&cache_seconds=60"
+        />
+      </td>
+      <td>
+        <img
+          alt="Top Langs"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfsabrinaa&theme=radica&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60"
+        />
+      </td>
+    </tr>
+  </table>
 </p>
