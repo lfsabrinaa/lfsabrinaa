@@ -150,7 +150,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-origi
       <td>
         <img
           alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=lfsabrinaa&show_icons=true&theme=radical&locale=pt-br&cache_seconds=60&hide=stars,prs,issues,contribs"
+          src="https://github-readme-stats.vercel.app/api?username=lfsabrinaa&show_icons=true&theme=radical&locale=pt-br&cache_seconds=60"
         />
       </td>
       <td>
